@@ -1,47 +1,47 @@
 model,model_year,trim,motivator_number,channel,adjective,boost,feature_anchor,notes
-elantra,2026,Limited,1,any,premium,4,cabin materials,High-style sedan positioning
-elantra,2026,SEL Sport,5,any,exciting,3,design cues,Visual reward for daily driving
-elantra,2026,SE,3,any,sensible,4,ROI/resale,Smart entry-level value decision
-elantra_hybrid,2026,Limited,1,any,refined,4,premium ride,Hybrid smoothness + top-tier trim
-elantra_hybrid,2026,Blue,3,any,efficient,5,fuel savings,Highest ROI focus for high-mileage drivers
-ioniq_5_2wd,2026,Limited,1,any,statement-making,5,design identity,Clean EV aesthetics + large presence
-ioniq_5_2wd,2026,SE,3,email,data-backed,4,range/specs,Facts for research-heavy EV buyers
-ioniq_5_awd,2026,XRT,5,any,bold,5,rugged design,Specific adventure-reward for off-road look
-ioniq_5_awd,2026,*,4,any,secure,5,AWD confidence,Traction-based reassurance for EV safety
+elantra,2026,limited,1,any,premium,4,cabin materials,High-style sedan positioning
+elantra,2026,sel_sport,5,any,exciting,3,design cues,Visual reward for daily driving
+elantra,2026,se,3,any,sensible,4,ROI/resale,Smart entry-level value decision
+elantra_hybrid,2026,limited,1,any,refined,4,premium ride,Hybrid smoothness + top-tier trim
+elantra_hybrid,2026,blue,3,any,efficient,5,fuel savings,Highest ROI focus for high-mileage drivers
+ioniq_5_2wd,2026,limited,1,any,statement-making,5,design identity,Clean EV aesthetics + large presence
+ioniq_5_2wd,2026,se,3,email,data-backed,4,range/specs,Facts for research-heavy EV buyers
+ioniq_5_awd,2026,xrt,5,any,bold,5,rugged design,Specific adventure-reward for off-road look
+ioniq_5_awd,2026,*,4,any,secure,5,awd confidence,Traction-based reassurance for EV safety
 ioniq_9_2wd,2026,*,1,any,flagship,5,presence/scale,Top-tier large EV status focus
 ioniq_9_2wd,2026,*,6,any,welcoming,4,cabin space,Hospitality focus for large families
-ioniq_9_awd,2026,Calligraphy,1,any,prestige,5,signature design,Ultimate luxury statement in the lineup
+ioniq_9_awd,2026,calligraphy,1,any,prestige,5,signature design,Ultimate luxury statement in the lineup
 ioniq_9_awd,2026,*,4,any,road-ready,4,safety assists,Confidence for hauling 7 passengers
-kona_2wd,2026,Limited,1,any,high-impact,4,styling/wheels,Urban standout aesthetic
-kona_2wd,2026,SEL Sport,5,any,refreshing,4,vibrant design,Modern reward for city commuting
+kona_2wd,2026,limited,1,any,high-impact,4,styling/wheels,Urban standout aesthetic
+kona_2wd,2026,sel_sport,5,any,refreshing,4,vibrant design,Modern reward for city commuting
 kona_awd,2026,*,4,any,sure-footed,4,all-weather,AWD traction framing for safety
-kona_awd,2026,SEL Premium,3,any,practical,5,cargo utility,Right-sized utility for smart shoppers
-palisade_2wd,2026,Calligraphy,1,any,refined,5,materials/finish,Lean into top-tier luxury interior
-palisade_2wd,2026,SEL Premium,6,any,together,4,seating versatility,Focus on shared family moments
-palisade_awd,2026,Calligraphy,1,email,well-appointed,4,interior comfort,Sophisticated feature-led positioning
-palisade_awd,2026,XRT PRO,5,any,bold,4,rugged styling,Tough reward for adventure buyers
+kona_awd,2026,sel_premium,3,any,practical,5,cargo utility,Right-sized utility for smart shoppers
+palisade_2wd,2026,calligraphy,1,any,refined,5,materials/finish,Lean into top-tier luxury interior
+palisade_2wd,2026,sel_premium,6,any,together,4,seating versatility,Focus on shared family moments
+palisade_awd,2026,calligraphy,1,email,well-appointed,4,interior comfort,Sophisticated feature-led positioning
+palisade_awd,2026,xrt_pro,5,any,bold,4,rugged styling,Tough reward for adventure buyers
 palisade_awd,2026,*,4,any,family-safe,5,safety tech,Primary Palisade safety default
-palisade_hybrid,2026,Limited,1,any,elevated,4,hybrid tech,Modern prestige with efficiency
-palisade_hybrid,2026,SEL,3,any,smart,5,long-term value,The logical high-spec decision
-santa_cruz_2wd,2026,SEL Activity,5,any,versatile,5,lifestyle bed,Play and utility combined
-santa_cruz_2wd,2026,SE,3,any,practical,4,right-sized,Smart decision for urban truck needs
-santa_cruz_awd,2026,Limited,1,any,standout,4,curb appeal,Truck presence with premium finish
-santa_cruz_awd,2026,XRT,5,any,adventurous,5,off-road cues,High-energy reward language
-santa_fe_2wd,2026,Calligraphy,1,any,elevated,5,redesign,Bold aesthetic as a status symbol
-santa_fe_2wd,2026,Limited,5,any,upgraded,4,premium tech,The high-spec family reward
-santa_fe_awd,2026,XRT,5,any,adventure-ready,5,rugged cues,Specific rugged lifestyle boost
-santa_fe_awd,2026,*,4,any,trustworthy,4,AWD stability,Solid family protection language
-santa_fe_hybrid,2026,Limited,3,any,proven,4,hybrid reliability,Efficiency with peace of mind
-sonata,2026,N Line,5,any,high-impact,5,acceleration,Performance-first reward energy
-sonata,2026,Limited,1,any,polished,4,coupe design,Aesthetic-first status focus
-sonata_hybrid,2026,SEL,3,any,value-focused,5,cost-to-own,Total value framing for hybrids
-tucson_2wd,2026,Limited,1,any,standout,4,tech features,Class-above feature set positioning
-tucson_2wd,2026,SEL Premium,2,any,straightforward,4,buying process,Easy-to-own volume model story
-tucson_awd,2026,XRT,5,any,bold,4,stance,Visual reward for rugged styling
+palisade_hybrid,2026,limited,1,any,elevated,4,hybrid tech,Modern prestige with efficiency
+palisade_hybrid,2026,sel,3,any,smart,5,long-term value,The logical high-spec decision
+santa_cruz_2wd,2026,sel_activity,5,any,versatile,5,lifestyle bed,Play and utility combined
+santa_cruz_2wd,2026,se,3,any,practical,4,right-sized,Smart decision for urban truck needs
+santa_cruz_awd,2026,limited,1,any,standout,4,curb appeal,Truck presence with premium finish
+santa_cruz_awd,2026,xrt,5,any,adventurous,5,off-road cues,High-energy reward language
+santa_fe_2wd,2026,calligraphy,1,any,elevated,5,redesign,Bold aesthetic as a status symbol
+santa_fe_2wd,2026,limited,5,any,upgraded,4,premium tech,The high-spec family reward
+santa_fe_awd,2026,xrt,5,any,adventure-ready,5,rugged cues,Specific rugged lifestyle boost
+santa_fe_awd,2026,*,4,any,trustworthy,4,awd stability,Solid family protection language
+santa_fe_hybrid,2026,limited,3,any,proven,4,hybrid reliability,Efficiency with peace of mind
+sonata,2026,n_line,5,any,high-impact,5,acceleration,Performance-first reward energy
+sonata,2026,limited,1,any,polished,4,coupe design,Aesthetic-first status focus
+sonata_hybrid,2026,sel,3,any,value-focused,5,cost-to-own,Total value framing for hybrids
+tucson_2wd,2026,limited,1,any,standout,4,tech features,Class-above feature set positioning
+tucson_2wd,2026,sel_premium,2,any,straightforward,4,buying process,Easy-to-own volume model story
+tucson_awd,2026,xrt,5,any,bold,4,stance,Visual reward for rugged styling
 tucson_awd,2026,*,4,any,dependable,5,all-weather,Reassurance for year-round safety
-tucson_hybrid,2026,Blue SE,3,any,efficient,5,MPG story,High-ROI practical hook
-tucson_phev,2026,SEL,2,any,flexible,5,drive modes,Control over EV vs Gas choice
-venue,2026,SEL,3,any,smart,5,urban mobility,The most logical city car choice
+tucson_hybrid,2026,blue_se,3,any,efficient,5,mpg story,High-ROI practical hook
+tucson_phev,2026,sel,2,any,flexible,5,drive modes,Control over EV vs Gas choice
+venue,2026,sel,3,any,smart,5,urban mobility,The most logical city car choice
 venue,2026,*,2,any,convenient,5,easy parking,Removing stress from city driving
 *,*,*,1,any,standout,3,styling,General fallback for status
 *,*,*,2,any,on-your-terms,3,process,General fallback for control
