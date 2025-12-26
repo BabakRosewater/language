@@ -1,0 +1,19 @@
+model,model_year,trim,motivator_number,channel,adjective,boost,feature_anchor,notes
+Palisade,*,Calligraphy,1,any,premium,4,materials/finish,Top trim—lean into presence + refinement
+Palisade,*,Calligraphy,1,email,well-appointed,3,interior comfort,Strong fit for feature-led email
+Palisade,*,*,4,any,family-safe,3,safety tech,Use when kids/family are mentioned
+
+Santa Fe,2025,*,5,any,upgraded,4,redesign/features,Works well for “new chapter” language
+Santa Fe,2025,*,1,any,standout,3,styling,Use for bold design + curb appeal
+Santa Fe,*,Limited,1,email,refined,3,interior/ride,More mature tone than “bold”
+
+Tucson,*,*,2,any,straightforward,3,buying process,Great for high-volume models: easy steps
+Tucson,*,*,3,any,value-focused,3,total value,cost-to-own / practicality framing
+Tucson,*,*,4,any,dependable,3,ownership confidence,Reassurance language
+
+IONIQ 5,*,*,1,any,statement-making,4,design/identity,EV styling + “make a statement”
+IONIQ 5,*,*,3,email,data-backed,3,specs/range,Use when they’re research-minded
+IONIQ 5,*,*,2,any,transparent,2,pricing/process,EV shoppers like clarity
+
+Elantra,*,N Line,5,any,exciting,3,drive feel,Fun without sounding reckless
+Elantra,*,N Line,1,any,confident,2,stance/handling,Pairs with performance cues
